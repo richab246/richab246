@@ -1,19 +1,10 @@
 ## Richa Bhandari 
-<h3 align="center">Mumbai, Maharashtra, India</h3>
+<h3 align="left">Mumbai, Maharashtra, India</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richab246&show_icons=true&locale=en" alt="richab246" /></p>
 
 ## About Me
 - An accomplished frontend developer, adept in ReactJS, Next.js, and React Native, with a passion for building innovative applications that enhance user experience and drive business success.
 - You can contact me at [richab246@gmail.com](mailto:richab246@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/richab246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richab246" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/richa-bhandari-976b241b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richa-bhandari-976b241b7" height="30" width="40" /></a>
-<a href="https://instagram.com/richa_958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richa_958" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/richabhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="richabhandari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/richab246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="richab246" height="30" width="40" /></a>
-</p>
 
 ## Experience
 - **Frontend Developer** at Speroh Labs Private Limited, New Delhi
@@ -33,6 +24,14 @@
 - **Backend** : Express.js, Node.js
 - **Database** : MySQL, MongoD
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/richab246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richab246" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/richa-bhandari-976b241b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richa-bhandari-976b241b7" height="30" width="40" /></a>
+<a href="https://instagram.com/richa_958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richa_958" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/richabhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="richabhandari" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/richab246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="richab246" height="30" width="40" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richab246&label=Profile%20views&color=0e75b6&style=flat" alt="richab246" /> </p>
 
