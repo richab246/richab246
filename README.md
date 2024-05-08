@@ -1,5 +1,5 @@
 <h2 align="left">Hi👋, I'm Richa Bhandari</h2> 
-<h5 align="left">🌍 Mumbai, Maharashtra, India<h3>
+<h3 align="left">🌍 Mumbai, Maharashtra, India<h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richab246&show_icons=true&locale=en" alt="richab246" /></p>
 
 ## About Me
