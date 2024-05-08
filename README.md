@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richab246&label=Profile%20views&color=0e75b6&style=flat" alt="richab246" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richab246" alt="richab246" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/richab246" target="blank"><img src="https://img.shields.io/twitter/follow/richab246?logo=twitter&style=for-the-badge" alt="richab246" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://richabhandari.netlify.app/](https://richabhandari.netlify.app/)
@@ -28,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richab246&show_icons=true&locale=en" alt="richab246" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richab246&" alt="richab246" /></p>
-
