@@ -1,5 +1,5 @@
-## Richa Bhandari 
-<h3 align="left">Mumbai, Maharashtra, India</h3>
+<h2 align="center">Richa Bhandari</h2> 
+🌍 Mumbai, Maharashtra, India
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richab246&show_icons=true&locale=en" alt="richab246" /></p>
 
 ## About Me
