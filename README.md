@@ -29,7 +29,7 @@
 <a href="https://twitter.com/richab246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="richab246" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/richa-bhandari-976b241b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richa-bhandari-976b241b7" height="30" width="40" /></a>
 <a href="https://instagram.com/richa_958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="richa_958" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/richabhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@richabhandari" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@richabhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@richabhandari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/richab246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="richab246" height="30" width="40" /></a>
 </p>
 
