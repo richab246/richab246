@@ -19,10 +19,10 @@
 - Solved over 125 coding questions on different platforms
 
 ## Skills
-- **Programming Skills** : Java, Python, Javascript
-- **Frontend** : Javascript, ReactJs, Redux, React Native, NextJs13
-- **Backend** : Express.js, Node.js
-- **Database** : MySQL, MongoD
+- **Programming Skills**: Java, Python, Javascript
+- **Frontend**: Javascript, ReactJs, Redux, React Native, NextJs13
+- **Backend**: Express.js, Node.js
+- **Database**: MySQL, MongoDB
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,7 +39,7 @@ Feel free to reach out via email for collaborations or inquiries.
 
 - 👨‍💻 All of my projects are available at [https://richabhandari.netlify.app/](https://richabhandari.netlify.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E2-65CbHeqCWOdtQ4PQnrcMrEU_JRFLD/view?usp=sharing](https://drive.google.com/file/d/1E2-65CbHeqCWOdtQ4PQnrcMrEU_JRFLD/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10-V1sKQOpSFi2IwdZw4LO6FfB9TFlROa/view?usp=sharing](https://drive.google.com/file/d/10-V1sKQOpSFi2IwdZw4LO6FfB9TFlROa/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
